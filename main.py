@@ -12,12 +12,9 @@ def Heavyside(x):
 for i in range(9):
     print(Heavyside(i - 1))
 
-
 print("σ")
 
+a = 2
+b = 3
+print("new branch max")
 print(a + b)
-
-
-
-
-
