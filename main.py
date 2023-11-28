@@ -2,4 +2,5 @@ print('Hi')
 
 print('add new branch, plz')
 
-print("xaxaaxaxa")
+for i in range(9):
+    print(Heavyside(i - 1))
