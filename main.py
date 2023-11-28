@@ -15,6 +15,9 @@ for i in range(9):
 
 print("σ")
 
+print(a + b)
+
+
 
 
 
