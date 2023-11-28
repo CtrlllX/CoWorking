@@ -10,7 +10,7 @@ def Heavyside(x):
     else:
         return (1)
 
-
+print("σ")
 
 
 
